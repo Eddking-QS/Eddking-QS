@@ -1,1 +1,1 @@
-![Banner](./Github-README-Banner.png)
+![Banner](./GithubREADMEBanner.png)
