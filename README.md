@@ -24,7 +24,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
             <img src="./Html.gif" height="75" width="60" />
         </p>
   
-![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/60) </br>
+![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/60) </br> </br>
 
  <p float="left"> 
       <img src="./CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
