@@ -35,5 +35,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   </div>
 
-  ## ▪️ Github Stats ▪️
+  ## ▪️ Projects ▪️
+
+  Projects will be added soon............ Stay tuned. 
 
