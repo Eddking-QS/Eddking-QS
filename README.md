@@ -14,15 +14,17 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </br>
 
   # 🛠️ Skills 
-  </br>
-  <p align="right"> Here's an overview of my Programing Language proficiency </p>
-  <img src="./hacker.gif" height="300" width="300" align = "left"> </br>  
-  </br>
-<div align="center">
-    <ul>
-      <li> <img src="./c.git" height="50" width="50"> : place holder</li>
-      <li>Second item</li>
-      <li>Third item</li>
-  </ul>
-</div>
+  <img src="./hacker.gif" height="300" width="300" align = "left">  
+  <h3 align="center"> Here's an overview of my Programing Language proficiency </h3> </br>
+    <p float="left"> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="./C.gif" height="60" width="60" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img src="./Python.gif" height="60" width="60" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img src="./Html.gif" height="75" width="60" />
+   </p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](https://progress-bar.dev/35) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Python](https://progress-bar.dev/40) &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![HTML](https://progress-bar.dev/60) </br>
 
