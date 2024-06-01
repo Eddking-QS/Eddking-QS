@@ -14,7 +14,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </br>
 
   ## 🛠️ Skills 
-  <p align="center"> My Programing Language Proficiency  </p>
+  <h4 align="center"> My Programing Language Proficiency  </h4>
   <img src="./Dev1.png" height="300" width="300" align = "left">  
 
   <p float="left"> 
