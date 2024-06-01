@@ -24,15 +24,12 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
       <img src="./Html.gif" height="75" width="60" />
    </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![C++](https://progress-bar.dev/35) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Python](https://progress-bar.dev/40) &nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![HTML](https://progress-bar.dev/60) </br>
+![C++](https://progress-bar.dev/35) ![Python](https://progress-bar.dev/40) ![HTML](https://progress-bar.dev/60) </br>
 
  <p align="center" float="left"> 
       <img src="./CSS2.gif" height="60" width="60" />
       <img src="./Javascript3.gif" height="60" width="60" />
  </p>
  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; ![CSS](https://progress-bar.dev/30) &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Javascript](https://progress-bar.dev/2) </br>
+  ![CSS](https://progress-bar.dev/30) ![Javascript](https://progress-bar.dev/2) </br>
 
