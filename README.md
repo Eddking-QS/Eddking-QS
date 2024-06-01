@@ -38,6 +38,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ![CSS](https://progress-bar.dev/30) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
 
   </div>
+  </br>
 
   ## ▪️ Projects ▪️
 
