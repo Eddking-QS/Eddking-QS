@@ -17,7 +17,6 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
  
   <img src="./Dev1.png" height="300" width="300" align = "left"> 
   <div align="center">
-    <h3> My Programing Language Proficiency  </h3>
         <p float="left"> 
             <img src="./C.gif" height="60" width="60" /> 
             <img src="./Python.gif" height="60" width="60" /> 
