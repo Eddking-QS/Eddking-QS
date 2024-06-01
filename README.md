@@ -16,20 +16,22 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ## 🛠️ Skills 
  
   <img src="./Dev1.png" height="300" width="300" align = "left"> 
-  <h3 align="center"> My Programing Language Proficiency  </h3>
-
-  <p align="center" float="left"> 
-      <img src="./C.gif" height="60" width="60" /> 
-      <img src="./Python.gif" height="60" width="60" /> 
-      <img src="./Html.gif" height="75" width="60" />
-   </p>
-
+  <div align="center">
+    <h3> My Programing Language Proficiency  </h3>
+        <p float="left"> 
+            <img src="./C.gif" height="60" width="60" /> 
+            <img src="./Python.gif" height="60" width="60" /> 
+            <img src="./Html.gif" height="75" width="60" />
+        </p>
+  
 ![C++](https://progress-bar.dev/35) ![Python](https://progress-bar.dev/40) ![HTML](https://progress-bar.dev/60) </br>
 
- <p align="center" float="left"> 
+ <p float="left"> 
       <img src="./CSS2.gif" height="60" width="60" />
       <img src="./Javascript3.gif" height="60" width="60" />
  </p>
  
   ![CSS](https://progress-bar.dev/30) ![Javascript](https://progress-bar.dev/2) </br>
+
+  </div>
 
