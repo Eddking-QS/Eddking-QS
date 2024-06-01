@@ -1,4 +1,4 @@
-![Banner](./GithubREADMEBanner.png)
+![Banner](assets/GithubREADMEBanner.png)
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
@@ -7,7 +7,7 @@
 ## ▪️ About Me ▪️ 
 </br>
 Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. </br>
-But why stop there? My curiosity is as boundless as the cloud itself, and that's where I'm headed next. Cloud <img src="./setup.gif" height="300" width="300" align = "right">
+But why stop there? My curiosity is as boundless as the cloud itself, and that's where I'm headed next. Cloud <img src="assets/setup.gif" height="300" width="300" align = "right">
 computing is on my horizon, and I'm eager to explore the vast expanse of scalable solutions and distributed systems. </br>
 </br>
 Ultimately, my compass points towards the enigmatic and ever-evolving world of AI </br> and Machine Learning. 
@@ -19,20 +19,20 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   ## ▪️ Learning Progress ▪️ 
  
-  <img src="./Dev1.png" height="300" width="300" align = "left"> 
+  <img src="assets/Dev1.png" height="300" width="300" align = "left"> 
   </br>
   <div align="center">
         <p float="left"> 
-            <img src="./C.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="./Python.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="./Html.gif" height="75" width="60" />
+            <img src="assets/C.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/Python.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="assets/Html.gif" height="75" width="60" />
         </p>
   
 ![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/60) </br> </br>
 
  <p float="left"> 
-      <img src="./CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="./Javascript3.gif" height="60" width="60" />
+      <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="assets/Javascript3.gif" height="60" width="60" />
  </p>
  
   ![CSS](https://progress-bar.dev/30) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
