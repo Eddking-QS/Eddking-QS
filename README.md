@@ -14,7 +14,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </br>
 
   ## 🛠️ Skills 
-  <img src="./hacker.gif" height="300" width="300" align = "left">  
+  <img src="./sitting.gif" height="300" width="300" align = "left">  
   <h3 align="center"> Here's an overview of my Programing Language proficiency </h3> </br>
     <p float="left"> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
