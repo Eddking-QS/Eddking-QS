@@ -14,14 +14,14 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </br>
 
   ## 🛠️ Skills 
-  <h4 align="center"> My Programing Language Proficiency  </h4>
+  <h3 align="center"> My Programing Language Proficiency  </h3>
   <img src="./Dev1.png" height="300" width="300" align = "left">  
 
   <p float="left"> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="./C.gif" height="60" width="60" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <img src="./Python.gif" height="60" width="60" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img src="./Python.gif" height="60" width="60" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <img src="./Html.gif" height="75" width="60" />
    </p>
 
