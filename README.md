@@ -3,11 +3,12 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
+
 ## ▪️ About Me ▪️ 
 </br>
 Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. </br>
 But why stop there? My curiosity is as boundless as the cloud itself, and that's where I'm headed next. Cloud <img src="./setup.gif" height="300" width="300" align = "right">
-  -</br>computing is on my horizon, and I'm eager to explore the vast expanse of scalable solutions and distributed systems. </br>
+computing is on my horizon, and I'm eager to explore the vast expanse of scalable solutions and distributed systems. </br>
 </br>
 Ultimately, my compass points towards the enigmatic and ever-evolving world of AI </br> and Machine Learning. 
   It's here that I aim to merge my passion for technology with</br> the power of algorithms, driving innovation that learns, adapts, and improves.</br>
@@ -40,7 +41,11 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   ## ▪️ Projects ▪️
 
-  Projects will be added soon............ Stay tuned. 
+  <div align="center">
+    </br>
+    Projects will be added soon............ Stay tuned. 
+  </div>
+  
   </br> 
 
   ## ▪️ Github Stats ▪️
@@ -56,7 +61,11 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eddking-QS&theme=tokyonight)
   </br>
 
-  </div>
+  </div> 
+
+  ## ▪️ Let's Connect ▪️ 
+  </br> 
+  
   
   
   
