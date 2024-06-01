@@ -69,7 +69,8 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   I'm always open to discussing web development work, ideas, collaborations, or simply networking. Here's how you can reach me:
 
 - Send me an email at: eddkingqsey [at] gmail [dot] com
-- Connect with me on [![Linkedin: edwardking-quintin-sey]](https://img.shields.io/badge/-edwardking-quintin-sey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwardking-quintin-sey/)
+- Connect with me on
+- <a href="https://www.linkedin.com/in/edwardking-quintin-sey-b2088430b/">Connect with me on LinkedIn</a>
 - Follow me on Twitter
 - Join me on Discord
 - Schedule a meeting on Calendly
