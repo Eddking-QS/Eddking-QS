@@ -52,7 +52,8 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddking-QS&langs_count=5&theme=tokyonight)
   </br>
   </br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eddking-QS&theme=tokyonight)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eddking-QS&theme=tokyonight)
   </br>
   
   
