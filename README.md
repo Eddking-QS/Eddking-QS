@@ -13,8 +13,13 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   Technology has always been my playground, and computers, my loyal companions. I thrive on problem-solving and relish challenges that stretch the limits of imagination, creativity, and logical thinking.
   </br>
 
-  ## Skills 
+  # 🛠️ Skills 
   </br>
+  <p align="right"> Here's an overview of my Programing Language proficiency </p>
   <img src="./hacker.gif" height="300" width="300" align = "left"> </br>  
   </br>
-    lumn 2: Column 2: Cell 4 tttttttttttttttttttttttttttttt </br> - Column 2: Cell 4 tttttttttttttttttttttttttttttt
+<ul align= "right">
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
