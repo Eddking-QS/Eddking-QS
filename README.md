@@ -38,4 +38,14 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ## ▪️ Projects ▪️
 
   Projects will be added soon............ Stay tuned. 
+  </br> 
+
+  ## ▪️ Github Stats ▪️
+  </br> 
+
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=Eddking-QS&count_private=true&theme=tokyonight&showicons=true)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddking-QS&langs_count=5&theme=tokyonight)
+  
+  
 
