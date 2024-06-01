@@ -1,6 +1,6 @@
 ![Banner](./GithubREADMEBanner.png)
 </br>
-## About Me
+# About Me
 </br>
 
 Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. </br>
@@ -13,7 +13,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   Technology has always been my playground, and computers, my loyal companions. I thrive on problem-solving and relish challenges that stretch the limits of imagination, creativity, and logical thinking.
   </br>
 
-  ## 🛠️ Skills 
+  # 🛠️ Skills 
   <img src="./Dev1.png" height="300" width="300" align = "left">  
   <h3 align="center"> My Programing Language Proficiency </h3> </br>
     <p float="left"> 
