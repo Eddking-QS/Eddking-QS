@@ -18,8 +18,11 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   <p align="right"> Here's an overview of my Programing Language proficiency </p>
   <img src="./hacker.gif" height="300" width="300" align = "left"> </br>  
   </br>
-<ul align= "right">
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-</ul>
+<div align="center">
+    <ul>
+      <li> <img src="./c.git" height="50" width="50"> : place holder</li>
+      <li>Second item</li>
+      <li>Third item</li>
+  </ul>
+</div>
+
