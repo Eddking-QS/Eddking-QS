@@ -1,10 +1,8 @@
 ![Banner](./GithubREADMEBanner.png)
-</br>
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
-
 ## ▪️ About Me ▪️ 
 </br>
 Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. </br>
