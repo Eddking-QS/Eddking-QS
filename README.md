@@ -16,6 +16,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   ## 🛠️ Skills 
  
   <img src="./Dev1.png" height="300" width="300" align = "left"> 
+  </br>
   <div align="center">
         <p float="left"> 
             <img src="./C.gif" height="60" width="60" /> 
