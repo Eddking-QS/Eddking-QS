@@ -42,9 +42,12 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   ## ▪️ Projects ▪️
 
-  <div align="center">
-    </br>
-    Projects will be added soon............ Stay tuned. 
+  <div>
+
+### Web Development
+- Cookie Monster Portfolio Website: A simple portfolio website for your favourite cookie monster, designed with basic HTML and CSS. Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
+
+ 
   </div>
   
   </br> 
