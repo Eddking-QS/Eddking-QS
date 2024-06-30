@@ -46,7 +46,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 ### Web Development
 - **Cookie Monster Portfolio Website:** A simple portfolio website for your favourite cookie monster, designed with basic HTML and CSS. Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
-- **CatPhotoApp:** A simple webpage for cats made with only HTML. Check out the [project repository](
+- **CatPhotoApp:** A simple webpage for cats made with only HTML. Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp) for more details.
 
  
   </div>
