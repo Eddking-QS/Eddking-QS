@@ -1,12 +1,10 @@
 ![Banner](assets/GithubREADMEBanner.png)
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Eddking-QS&color=blue&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
-## ▪️ About Me ▪️
-
+## ▪️ About Me ▪️ 
 </br>
 Hello World! 👋 I'm Edwardking, a Computer Science student on an exhilarating journey to become a full-stack developer. </br>
 But why stop there? My curiosity is as boundless as the cloud itself, and that's where I'm headed next. Cloud <img src="assets/setup.gif" height="300" width="300" align = "right">
@@ -19,8 +17,8 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </br>
   </br>
 
-## ▪️ Learning Progress ▪️
-
+  ## ▪️ Learning Progress ▪️ 
+ 
   <img src="assets/Dev1.png" height="300" width="300" align = "left"> 
   </br>
   <div align="center">
@@ -42,43 +40,45 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   </div>
   </br>
 
-## ▪️ Projects ▪️
+  ## ▪️ Projects ▪️
 
   <div>
 
 ### Web Development
+- Cookie Monster Portfolio Website: A simple portfolio website for your favourite cookie monster, designed with basic HTML and CSS. Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
 
--   Cookie Monster Portfolio Website: A simple portfolio website for your favourite cookie monster, designed with basic HTML and CSS. Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
+ 
+  </div>
+  
+  </br> 
 
-      </div>
-      
-      </br>
+  ## ▪️ Github Stats ▪️
+  </br>
 
-    ## ▪️ Github Stats ▪️
+  <div align="center"> 
+    
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=Eddking-QS&count_private=true&theme=tokyonight&showicons=true)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddking-QS&langs_count=5&theme=tokyonight)
+  </br>
+  </br> 
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eddking-QS&theme=tokyonight)
+  </br>
 
-      </br>
+  </div> 
 
-      <div align="center"> 
-        
-      ![Readme Stats](https://github-readme-stats.vercel.app/api?username=Eddking-QS&count_private=true&theme=tokyonight&showicons=true)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddking-QS&langs_count=5&theme=tokyonight)
-      </br>
-      </br> 
-      ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eddking-QS&theme=tokyonight)
-      </br>
+  ## ▪️ Let's Connect ▪️ 
+  </br> 
+I'm always open to discussions, ideas, collaborations, or simply networking. Here's how you can reach me:
 
-      </div>
-
-    ## ▪️ Let's Connect ▪️
-
-      </br> 
-    I'm always open to discussions, ideas, collaborations, or simply networking. Here's how you can reach me:
-
--   Questions & Answers: <a href="https://stackoverflow.com/users/24184245/edwardking">Stack Overflow</a>
--   Connect with me on: <a href="https://www.linkedin.com/in/edwardking-quintin-sey-b2088430b/">LinkedIn</a>
--   Follow me on Twitter: <a href="https://twitter.com/IamKing_exe">Twitter</a>
--   Follow me on: <a href="https://www.tiktok.com/@edd..king">TikTok</a>
--   Send me an email at: eddkingqsey [at] gmail [dot] com
+- Questions & Answers: <a href="https://stackoverflow.com/users/24184245/edwardking">Stack Overflow</a>
+- Connect with me on: <a href="https://www.linkedin.com/in/edwardking-quintin-sey-b2088430b/">LinkedIn</a>
+- Follow me on Twitter: <a href="https://twitter.com/IamKing_exe">Twitter</a>
+- Follow me on:  <a href="https://www.tiktok.com/@edd..king">TikTok</a>
+- Send me an email at: eddkingqsey [at] gmail [dot] com
 
 Looking forward to hearing from you!
+  
+  
+  
+
