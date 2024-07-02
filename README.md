@@ -47,6 +47,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 ### Web Development
 - **Cookie Monster Portfolio Website** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
 - **CatPhotoApp** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp) for more details.
+- **Cafe Menu** - Check out the [project repository]() for more details. 
 
  
   </div>
