@@ -28,14 +28,14 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
             <img src="assets/Html.gif" height="75" width="60" />
         </p>
   
-![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/60) </br> </br>
+![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/70) </br> </br>
 
  <p float="left"> 
       <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="assets/Javascript3.gif" height="60" width="60" />
  </p>
  
-  ![CSS](https://progress-bar.dev/30) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
+  ![CSS](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
 
   </div>
   </br>
@@ -44,7 +44,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   <div>
 
-### Web Development
+### Mini Projects
 - **Cookie Monster Portfolio Website** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
 - **CatPhotoApp** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp) for more details.
 - **Cafe Menu** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu) for more details. 
