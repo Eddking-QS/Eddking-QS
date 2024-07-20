@@ -28,14 +28,14 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
             <img src="assets/Html.gif" height="75" width="60" />
         </p>
   
-![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/70) </br> </br>
+![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/80) </br> </br>
 
  <p float="left"> 
       <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="assets/Javascript3.gif" height="60" width="60" />
  </p>
  
-  ![CSS](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
+  ![CSS](https://progress-bar.dev/50) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
 
   </div>
   </br>
