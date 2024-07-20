@@ -51,7 +51,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **CSS Color Markers** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Project-Markers) for more details.
 - **Registration Form** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-Registration_Form) for more details.
 - **Rothko Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting) for more details.
-- **Gallery** - Check out the [project repository]() for more details.
+- **Gallery** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery) for more details.
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
