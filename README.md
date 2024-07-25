@@ -45,7 +45,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   <div>
 
 ### Projects
-- **C++ E-Commerce Console App** - Check out the [project repository]() for more details
+- **C++ E-Commerce Console App** - Check out the [project repository](https://github.com/Eddking-QS/Projects-eCommerce_App) for more details.
 
 ### Mini Projects
 - **Cookie Monster Portfolio Website** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
