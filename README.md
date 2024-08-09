@@ -56,6 +56,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Rothko Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting) for more details.
 - **Gallery** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery) for more details.
 - **Nutrition Label** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Nutrition_Label) for more details.
+- **Accessibility Quiz** - Check out the [project repository](https://github.com/Eddking-QS/Mini_Projects-Accessibility_Quiz) for more details.
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
