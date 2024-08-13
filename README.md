@@ -63,7 +63,8 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
-- **Tribute Page** - Check out the [project repository](https://github.com/Eddking-QS/Projects-Tribute_Page) for more details.
+- **Tribute Page** - Check out the [project repository](https://github.com/Eddking-QS/Projects-Tribute_Page) for more details
+- **Technical Documentation Page** - Check out the [project repository]() for more details.
 
  
   </div>
