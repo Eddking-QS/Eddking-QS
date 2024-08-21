@@ -60,6 +60,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Balance Sheet** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Balance_Sheet) for more details.
 - **Cat Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Cat_Painting) for more details.
 - **Piano** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Piano) for more details.
+- **City Skyline** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-City_Skyline) for more details.
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
