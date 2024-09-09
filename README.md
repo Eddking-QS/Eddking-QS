@@ -62,6 +62,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Piano** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Piano) for more details.
 - **City Skyline** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-City_Skyline) for more details.
 - **Magazine** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Magazine) for more details.
+- **Ferris Wheel** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Ferris_Wheel) for more details.
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
