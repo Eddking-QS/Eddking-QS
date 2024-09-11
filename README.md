@@ -70,7 +70,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Tribute Page** - Check out the [project repository](https://github.com/Eddking-QS/Projects-Tribute_Page) for more details
 - **Technical Documentation Page** - Check out the [project repository](https://github.com/Eddking-QS/Projects-Technical_Documentation_Page) for more details.
 - **Product Landing Page** - Check out the [project repository](https://github.com/Eddking-QS/Projects-Product_Landing_Page) for more details.
-- **Portfolio Website** - **Website in development. Check status at _url unavailable at the moment_ .**
+- **Portfolio Website** - **Website in development. Check status at (_url unavailable at the moment_) .**
 
  
   </div>
