@@ -45,15 +45,16 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
   <div>
 
 ### Personal & University Projects
-- **C++ E-Commerce Console App** - My Year 1, end of 1st semester C++ e-commerce [project](https://github.com/Eddking-QS/Projects-eCommerce_App).
+- **[C++ E-Commerce Console App](https://github.com/Eddking-QS/Projects-eCommerce_App)** **- My 1st year, end of 1st semester C++ project**
+- **Portfolio Website** - **Currently in development. Check status at (_url unavailable at the moment_) .**
 
 <br>
 
 ### FCC Certification Projects
-- **Survey Form** - Simple survey form page made with HTML and CSS. View the [project](https://github.com/Eddking-QS/FCC-Survey_Form) here.
-- **Tribute Page** - A Tribute/Memorial page for a pet dog called Ace. View the [project](https://github.com/Eddking-QS/Projects-Tribute_Page) here. 
-- **Technical Documentation Page** - A blog containing the best tools for each stage in the development cycle. View [project](https://github.com/Eddking-QS/Projects-Technical_Documentation_Page) here.
-- **Product Landing Page** - A product landing page for the Samsung Galaxy Watch. View [project](https://github.com/Eddking-QS/Projects-Product_Landing_Page) here.
+- **[Survey Form](https://github.com/Eddking-QS/FCC-Survey_Form)** **- Simple survey form page made with HTML and CSS.**
+- **[Tribute Page](https://github.com/Eddking-QS/Projects-Tribute_Page)** **- A Tribute/Memorial page for a pet dog called Ace.** 
+- **[Technical Documentation Page](https://github.com/Eddking-QS/Projects-Technical_Documentation_Page)** **- A blog containing the best tools for each stage in the development cycle.**
+- **[Product Landing Page](https://github.com/Eddking-QS/Projects-Product_Landing_Page)** **- A product landing page for the Samsung Galaxy Watch.**
 - **Portfolio Website** - **Website in development. Check status at (_url unavailable at the moment_) .**
 
 <br>
