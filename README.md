@@ -44,8 +44,8 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
   <div>
 
-### Projects
-- **C++ E-Commerce Console App** - Check out the [project repository](https://github.com/Eddking-QS/Projects-eCommerce_App) for more details.
+### Personal & University Projects
+- **C++ E-Commerce Console App** - My Year 1, end of 1st semester C++ e-commerce [project](https://github.com/Eddking-QS/Projects-eCommerce_App).
 
 <br>
 
