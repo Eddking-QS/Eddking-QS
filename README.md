@@ -47,11 +47,31 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 ### Projects
 - **C++ E-Commerce Console App** - Check out the [project repository](https://github.com/Eddking-QS/Projects-eCommerce_App) for more details.
 
-### Mini Projects
-- **Cookie Monster Portfolio Website** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster) for more details.
-- **CatPhotoApp** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp) for more details.
-- **Cafe Menu** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu) for more details.
-- **CSS Color Markers** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Project-Markers) for more details.
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3" width="1000">MINI PROJECTS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" colspan="3" width="1000">Click On The Project Name To View</td>
+    </tr>      
+    <tr>
+      <th align="center" width="300">HTML <br> CSS <br> Tailwind CSS</th>
+      <td width="700"> 
+        <a href="https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster">Cookie Monster Portfolio Website</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp">Cat Photo App</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Project-Markers">CSS Color Markers</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a>
+      </td>
+    </tr>
+    <tr>
+      <th align="center" width="300">Javascript</th>
+      <td align="center" width="700">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+- **CSS Color Markers** - Check out the [project repository]() for more details.
 - **Registration Form** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-Registration_Form) for more details.
 - **Rothko Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting) for more details.
 - **Gallery** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery) for more details.
