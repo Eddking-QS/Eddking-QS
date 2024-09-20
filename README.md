@@ -50,12 +50,15 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
 <br>
 
-### FCC Certification Projects
+### FCC Certification Projects (HTML/CSS)
 - **[Survey Form](https://github.com/Eddking-QS/FCC-Survey_Form)** **- Simple survey form page made with HTML and CSS.**
 - **[Tribute Page](https://github.com/Eddking-QS/Projects-Tribute_Page)** **- A Tribute/Memorial page for a pet dog called Ace.** 
 - **[Technical Documentation Page](https://github.com/Eddking-QS/Projects-Technical_Documentation_Page)** **- A blog containing the best tools for each stage in the development cycle.**
 - **[Product Landing Page](https://github.com/Eddking-QS/Projects-Product_Landing_Page)** **- A product landing page for the Samsung Galaxy Watch.**
 - **Portfolio Website** - **Website in development. Check status at (_url unavailable at the moment_) .**
+
+<br>
+### FCC Certification Projects (Javascript)
 
 <br>
 <br>
