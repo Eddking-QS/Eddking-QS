@@ -25,17 +25,19 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
         <p float="left"> 
             <img src="assets/C.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img src="assets/Python.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="assets/Html.gif" height="75" width="60" />
+            <img src="assets/Javascript3.gif" height="60" width="60" />
         </p>
   
-![C++](https://progress-bar.dev/35) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://progress-bar.dev/40) &nbsp;&nbsp;&nbsp;&nbsp; ![HTML](https://progress-bar.dev/80) </br> </br>
+![C++](https://img.shields.io/badge/C++-35%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-40%25-blue) &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-2%25-yellow) </br> </br>
 
  <p float="left"> 
-      <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="assets/Javascript3.gif" height="60" width="60" />
+      <img src="assets/Html.gif" height="75" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Html.gif" height="75" width="60" />
  </p>
  
-  ![CSS](https://progress-bar.dev/50) &nbsp;&nbsp;&nbsp;&nbsp; ![Javascript](https://progress-bar.dev/2) </br>
+ ![HTML](https://img.shields.io/badge/HTML-80%25-orange) &nbsp;&nbsp;&nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-65%25-blue) &nbsp;&nbsp;&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)
+
+ </br>
 
   </div>
   </br>
@@ -58,7 +60,9 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Portfolio Website** - **Website in development. Check status at (_url unavailable at the moment_) .**
 
 <br>
+
 ### FCC Certification Projects (Javascript)
+- 
 
 <br>
 <br>
