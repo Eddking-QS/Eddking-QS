@@ -60,7 +60,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
     <tr>
       <th align="center" width="300">HTML <br> CSS <br> Tailwind CSS</th>
       <td width="700"> 
-        <a href="https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster">Cookie Monster Portfolio Website</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp">Cat Photo App</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Project-Markers">CSS Color Markers</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a>
+        <a href="https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster">Cookie Monster Portfolio Website</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-CatPhotoApp">Cat Photo App</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Project-Markers">CSS Color Markers</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cafe_Menu">Cafe Menu</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Project-Markers">CSS Color Markers</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/HTML-Mini_Projects-Registration_Form">Registration Form</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting">Rothko Painting</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery">Gallery</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Nutrition_Label">Nutrition Label</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/Mini_Projects-Accessibility_Quiz">Accessibility Quiz</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Balance_Sheet">Balance Sheet</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Cat_Painting">Cat Painting</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Piano">Piano</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-City_Skyline">City Skyline</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Magazine">Magazine</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Ferris_Wheel">Ferris Wheel</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/CSS-Mini_Projects-Animated_Penguin">Animated Penguin</a>
       </td>
     </tr>
     <tr>
@@ -70,20 +70,6 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
     </tr>
   </tbody>
 </table>
-
-- **CSS Color Markers** - Check out the [project repository]() for more details.
-- **Registration Form** - Check out the [project repository](https://github.com/Eddking-QS/HTML-Mini_Projects-Registration_Form) for more details.
-- **Rothko Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS_Mini-Projects_Rothko_Painting) for more details.
-- **Gallery** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Gallery) for more details.
-- **Nutrition Label** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Nutrition_Label) for more details.
-- **Accessibility Quiz** - Check out the [project repository](https://github.com/Eddking-QS/Mini_Projects-Accessibility_Quiz) for more details.
-- **Balance Sheet** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Balance_Sheet) for more details.
-- **Cat Painting** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Cat_Painting) for more details.
-- **Piano** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Piano) for more details.
-- **City Skyline** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-City_Skyline) for more details.
-- **Magazine** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Magazine) for more details.
-- **Ferris Wheel** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Ferris_Wheel) for more details.
-- **Animated Penguin** - Check out the [project repository](https://github.com/Eddking-QS/CSS-Mini_Projects-Animated_Penguin) for more details.
 
 ### FCC Certification Projects
 - **Survey Form** - Check out the [project repository](https://github.com/Eddking-QS/FCC-Survey_Form) for more details.
