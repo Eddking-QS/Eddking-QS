@@ -32,7 +32,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 
  <p float="left"> 
       <img src="assets/Html.gif" height="75" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Html.gif" height="75" width="60" />
+      <img src="assets/CSS2.gif" height="60" width="60" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/Tailwind.gif" height="75" width="60" />
  </p>
  
  ![HTML](https://img.shields.io/badge/HTML-80%25-orange) &nbsp;&nbsp;&nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-65%25-blue) &nbsp;&nbsp;&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-50%25-teal)
