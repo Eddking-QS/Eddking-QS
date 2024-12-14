@@ -117,9 +117,9 @@ I'm always open to discussions, ideas, collaborations, or simply networking. Her
 
 - Questions & Answers: <a href="https://stackoverflow.com/users/24184245/edwardking">Stack Overflow</a>
 - Connect with me on: <a href="https://www.linkedin.com/in/edwardking-quintin-sey-b2088430b/">LinkedIn</a>
-- Follow me on Twitter: <a href="https://twitter.com/IamKing_exe">Twitter</a>
-- Follow me on:  <a href="https://www.tiktok.com/@edd..king">TikTok</a>
-- Send me an email at: eddkingqsey [at] gmail [dot] com
+- Follow me on Twitter: <a href="https://twitter.com/quintin_dev">Twitter</a>
+- Follow me on:  <a href="https://www.tiktok.com/@quintin.dev">TikTok</a>
+- Send me an email at: contact.mrquintin@gmail.com
 
 Looking forward to hearing from you!
   
