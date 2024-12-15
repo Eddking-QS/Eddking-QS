@@ -85,7 +85,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
     <tr>
       <th align="center" width="300">Javascript</th>
       <td align="center" width="700">
-         <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Pyramid_Generator">Pyramid Generator</a> &nbsp ▪︎ &nbsp 
+         <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Pyramid_Generator">Pyramid Generator</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-GradeBook_App">GradeBook App</a> &nbsp ▪︎ &nbsp 
       </td>
     </tr>
   </tbody>
