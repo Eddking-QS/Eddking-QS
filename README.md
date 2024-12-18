@@ -59,7 +59,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
 - **Portfolio Website** - **Website in development. Check status at (_url unavailable at the moment_) .**
 
 
-### FCC Certification Projects (Javascript)
+### FCC Certification Projects (JavaScript)
 - 
 
 <br>
