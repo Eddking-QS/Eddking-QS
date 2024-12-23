@@ -83,7 +83,7 @@ Ultimately, my compass points towards the enigmatic and ever-evolving world of A
     <tr>
       <th align="center" width="300">Javascript</th>
       <td align="center" width="700">
-         <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Pyramid_Generator">Pyramid Generator</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-GradeBook_App">GradeBook App</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Role_Playing_Game">Role Playing Game</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Random_Background_Generator">Random Background Generator</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Calorie_Counter">Calorie Counter</a> &nbsp ▪︎ &nbsp
+         <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Pyramid_Generator">Pyramid Generator</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-GradeBook_App">GradeBook App</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Role_Playing_Game">Role Playing Game</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Projects-Random_Background_Generator">Random Background Generator</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Calorie_Counter">Calorie Counter</a> &nbsp ▪︎ &nbsp <a href="https://github.com/Eddking-QS/JavaScript-Mini_Project-Rock_Paper_Scissors_Game">Rock, Paper, Scissors Game</a> &nbsp ▪︎ &nbsp
       </td>
     </tr>
   </tbody>
